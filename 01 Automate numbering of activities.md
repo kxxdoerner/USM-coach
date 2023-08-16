@@ -1,0 +1,5 @@
+|   |   |   |
+|---|---|---|
+|Klaus|Mikko|Other comments|
+|![Computergenerierter Alternativtext:<br>Plan & agree<br>1. Stelle intern ausschreiben<br>Nc responsibilities added for this activity yet.<br>Add new responsibility<br>2. Draw up a change plan.<br>Dr up a high-level (change planl based on an impact analysis and on the<br>H' Employee Admin<br>Add new responsibility<br>3. Agree the change plan.<br>Agree the (change planl With the people involved, and add the Change to the I<br>HR Employee Admin<br>Add new responsibility](file:///C:/Users/klaus/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)|_Fair point. I have done this change. Initially, people were using manual numbering so I left it out so the demos do not look ugly._ _But it is better this way._||
+|**01.08.23:** In the text-default-field there is still the "old" numbering. I suggest to remove it.<br><br>![Ein Bild, das Text, Screenshot, Schrift, Zahl enthält.<br>Automatisch generierte Beschreibung](file:///C:/Users/klaus/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)|||
